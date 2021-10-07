@@ -1,0 +1,49 @@
+body{
+  background-color:#2874A6;
+  font-family: Verdana ;
+  background-color: #2E4053";
+}
+nav ul li ul{
+  display: block;
+  position:absolute;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 0px 0px 4px 4px;
+  text-decoration: none;
+}
+nav ul li:hover ul {
+  display: block;
+  background-color: aliceblue;
+}
+nav ul li ul li {
+  width:180px;
+  border-radius: 4px;
+}
+img{
+  height: 120px;
+  width: 100px;
+}
+li{
+  display: inline;
+}
+ nav {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color:#222;
+   font-size: 24px;
+   line-height: 55px;
+   /* float:left; */
+ }
+ /* nav ul{
+   float:left;
+ } */
+ nav ul {
+   /* float:left; */
+   list-style: none;
+ }
+ #tabs{
+   font-size:24px;
+ }
+ div{
+   margin-left: 50px;
+   margin-right: 50px;
+ }
